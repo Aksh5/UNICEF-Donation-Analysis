@@ -12,10 +12,6 @@ Analyze donation trends across 44 UNICEF partners to uncover contribution patter
 - Regional partners grew faster than international
 - Suggested focus: Q4 donation strategy
 
-## 📂 Files
-- `UNICEF_Donation_Dashboard.pbix`
-- `Donations_Cleaned.xlsx`
-
 ## 💡 Learnings
 - Data cleaning in Excel
 - Multi-source dashboard creation
