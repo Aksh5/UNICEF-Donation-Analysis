@@ -21,7 +21,7 @@ Analyze donation trends across 44 UNICEF partners to uncover contribution patter
 ----
 
 ## 💡 Learnings
-- Data cleaning in Excel
+- Data Cleaning in Excel
 - Multi-source dashboard creation
 - Visual storytelling
 
